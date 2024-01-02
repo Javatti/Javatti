@@ -1,6 +1,5 @@
 ## Hi <span>&#9995;&#127995;</span>
-I'm a Electric Engineer who is prefer to be Printed circuit designer but, let see what's there?! Oh sometimes i programming on hardwared like AVR & ARM i was educated from vocational school in Electronic major
-so after school i was a teacher that's funny but i  was teaching Robotic and programming to children  in Onlineclass and in person too.
+'m a Electric Engineer who is prefer to be Printed circuit designer but, let see what's there?! Oh sometimes i programming on hardwared like AVR & ARM I was educated major Electronic in techinical college in so after school I was a teacher that's funny and weird but I was teaching Robotic and programming to children in Onlineclasses and in person too.cfiom yfkuy pggqv lbpzr cexun sevjx imixk njbfe sodxn
 <div id="header" align="left">
 <img src="https://i.imgur.com/YzPYAlj.gif" width="200px" />
 </div>
