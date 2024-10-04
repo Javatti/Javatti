@@ -22,7 +22,7 @@ I'm a Electric Engineer who is prefer to be Printed circuit designer but, let se
   </div>
 <div id="badges">
   
-  <a href="https://t.me/sinisterjvd">
+  <a href="https://t.me/mhmdjvdkh">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
